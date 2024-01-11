@@ -1,4 +1,4 @@
-This repository contains the genotypic and phenotypic data for the manuscript "Machine learning for prediction of resistance traits in wheat".
+This repository contains the genotypic and phenotypic data for the manuscript "Machine learning for prediction of resistance scores in wheat".
 
 haploselekt-map.txt: Genetic map.
 haploselekt-marker.mpo: Unfiltered marker matrix.
