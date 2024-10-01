@@ -3,6 +3,7 @@ This repository contains the genotypic and phenotypic data as well as code for t
 #### Data:
 
 data/assignment_sets.txt: Assignment of genotypes to training and validation sets. <br>
+data/haploselekt-beagle-out.mpo: Filtered marker matrix, imputed with BEAGLE. <br>
 data/haploselekt-map.txt: Genetic map. <br>
 data/haploselekt-marker.mpo: Unfiltered marker matrix. <br>
 data/hs_br.txt: Resistance scores for brown rust (P. triticina). <br>
