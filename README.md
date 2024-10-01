@@ -1,6 +1,6 @@
 This repository contains the genotypic and phenotypic data as well as code for the manuscript "Machine learning for prediction of resistance scores in wheat".
 
-#### Data:
+#### Data (in a separate folder "resistance_data.ip" due to file size limits; place in a folder called "data" in the main directory together with the files from "resistance.zip":
 
 data/assignment_sets.txt: Assignment of genotypes to training and validation sets. <br>
 data/haploselekt-beagle-out.mpo: Filtered marker matrix, imputed with BEAGLE. <br>
