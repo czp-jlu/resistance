@@ -1,4 +1,4 @@
-This repository contains the genotypic and phenotypic data as well as code for the manuscript "Machine learning for prediction of resistance scores in wheat".
+This repository contains the genotypic and phenotypic data as well as code for the paper ["Machine learning for prediction of resistance scores in wheat"](https://onlinelibrary.wiley.com/doi/10.1111/pbr.13235).
 
 #### Data:
 
