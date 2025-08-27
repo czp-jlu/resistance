@@ -1,11 +1,11 @@
 This repository contains the genotypic and phenotypic data as well as code for the manuscript "Machine learning for prediction of resistance scores in wheat".
 
-#### Data (file names starting with "data" in a separate folder "resistance_data.zip" due to file size limits; place in a folder called "data" in the main directory together with the files from "resistance.zip":
+#### Data:
 
 data/assignment_sets.txt: Assignment of genotypes to training and validation sets. <br>
 data/haploselekt-beagle-out.mpo: Filtered marker matrix, imputed with BEAGLE. <br>
 data/haploselekt-map.txt: Genetic map. <br>
-data/haploselekt-marker.mpo: Unfiltered marker matrix. <br>
+data/haploselekt-marker.mpo: Unfiltered marker matrix. Due to file size, this is contained within the .zip file of the same name. <br>
 data/hs_br.txt: Resistance scores for brown rust (P. triticina). <br>
 data/hs_fus1.txt: Resistance scores for Fusarium (F. graminearum). <br>
 data/hs_md.txt: Resistance scores for mildew (B. graminis). <br>
